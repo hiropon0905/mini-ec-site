@@ -18,11 +18,11 @@ Next.js + Express + PostgreSQL で構築したECサイトのポートフォリ�
 
 ## ローカル環境での起動方法
 
-\`\`\`bash
+```bash
 git clone https://github.com/YOUR_USERNAME/mini-ec-site.git
 cd mini-ec-site
 docker-compose up -d
-\`\`\`
+```
 
 - フロントエンド: http://localhost:3000
 - バックエンド: http://localhost:4000
